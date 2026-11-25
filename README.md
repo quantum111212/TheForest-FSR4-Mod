@@ -46,6 +46,10 @@ Double-click **`Uninstall_FSR4.bat`** to cleanly remove all mod files and return
 - `source/TheForestFSR4Native.cpp` — Native x64 C++ DX11 render-thread bridge invoking OptiScaler's `NVSDK_NGX_D3D11_*` API.
 - `scripts/install.ps1` & `scripts/uninstall.ps1` — PowerShell 1-click installer & uninstaller.
 
+## Contributors
+- **[quantum111212](https://github.com/quantum111212)** — Creator & testing
+- **Gemini Neon** — Plugin, native DX11-to-NGX bridge, and 1-click installer development
+
 ## Credits
 - **[OptiScaler](https://github.com/optiscaler/OptiScaler)** (GPLv3)
 - **[BepInEx 5](https://github.com/BepInEx/BepInEx)** (LGPL-2.1)

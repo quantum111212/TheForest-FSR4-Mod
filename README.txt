@@ -20,6 +20,10 @@ IN-GAME HOTKEYS:
            Balanced / Performance / UltraPerformance)
   Insert - Open OptiScaler overlay
 
+CONTRIBUTORS:
+  quantum111212 - Creator & testing
+  Gemini Neon   - Plugin, native DX11-to-NGX bridge, and installer development
+
 CREDITS:
   OptiScaler : https://github.com/optiscaler/OptiScaler
   BepInEx    : https://github.com/BepInEx/BepInEx
