@@ -39,7 +39,7 @@ Double-click **`Uninstall_FSR4.bat`** to cleanly remove all mod files and return
 - Windows 10 / 11 (64-bit) with a DirectX 11 & DirectX 12 capable GPU
 - Internet connection during installation (to download official BepInEx and OptiScaler releases)
 - Recent AMD Adrenalin driver for FSR 4 (`amdxcffx64.dll` / INT8 / FP8 support)
-- *Single-player / private co-op use — do not use upscaler injectors in anti-cheat multiplayer games.*
+- *Single-player / private co-op use
 
 ## Source Code & Architecture
 - `source/TheForestFSR4.cs` — BepInEx 5 C# plugin (Unity 5.6 / Mono 2.0) hooking `PostProcessingBehaviour`, managing scaled HDR render targets, Halton projection jitter, depth/MV capture, and display-resolution HDR blitting.
